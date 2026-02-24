@@ -27,5 +27,4 @@ else:
 if units > 0:
     bill = bill + fixed_charge
 
-# Step 5: Print final bill
 print(f"Total Electricity Bill for {units} units is: ₹{bill}")
