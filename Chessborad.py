@@ -15,5 +15,4 @@ for row in range(N):
         else:
             print("0", end=" ")
 
- #  Print new line after each row 
-    print()
+  
